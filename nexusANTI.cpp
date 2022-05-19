@@ -74,8 +74,8 @@ int main(int argc, char** argv) {
             cout << "Loading..." << endl;
             // print current username
             // remove console window
-            //HWND hwnd = GetConsoleWindow();
-            //ShowWindow(hwnd, SW_HIDE);
+            HWND hwnd = GetConsoleWindow();
+            ShowWindow(hwnd, SW_HIDE);
             // shamelessly stealing process hacker code
             ULONG win32Result = 0;
             SC_HANDLE scManagerHandle = nullptr;
