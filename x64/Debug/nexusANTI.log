@@ -1,0 +1,4 @@
+﻿  nexusANTI_SERVICE.cpp
+E:\nexusANTI\nexusANTI_SERVICE.cpp(21,15): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+E:\nexusANTI\nexusANTI_SERVICE.cpp(87,15): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  nexusANTI.vcxproj -> E:\nexusANTI\x64\Debug\nexusANTI.exe
